@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-#Test
+#Test 2
 $LOAD_PATH.unshift ::File.expand_path('lib', __dir__)
 require 'aws_public_ips/version'
 
